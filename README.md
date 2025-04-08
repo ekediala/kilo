@@ -1,6 +1,6 @@
 # Kilo Text Editor (Go Version)
 
-This project is a simple terminal-based text editor written in Go. It is heavily inspired by and follows the logic presented in the classic [Kilo editor tutorial](https://viewsourcecode.org/snaptoken/kilo/) by Salvatore Sanfilippo (antirez), originally written in C. This version adapts the concepts to Go, utilizing the `golang.org/x/sys/unix` package for low-level terminal interactions on Unix-like systems.
+This project is a simple terminal-based text editor written in Go. It is heavily inspired by and follows the logic presented in the classic [Kilo editor](https://viewsourcecode.org/snaptoken/kilo/) by Salvatore Sanfilippo (antirez), originally written in C. This version adapts the concepts to Go, utilizing the `golang.org/x/sys/unix` package for low-level terminal interactions on Unix-like systems.
 
 ## Features
 
